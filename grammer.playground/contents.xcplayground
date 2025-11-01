@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='7.0' target-platform='ios' swift-version='6' display-mode='raw'>
+    <pages>
+        <page name='0. 开始'/>
+        <page name='01. 常量与变量'/>
+        <page name='02. 基本数据类型'/>
+        <page name='03. 字符串操作'/>
+        <page name='04. 数组 (Array)'/>
+        <page name='05. 字典 (Dictionary)'/>
+        <page name='06. 条件语句'/>
+        <page name='07. 循环'/>
+        <page name='08. 函数 (Functions)'/>
+        <page name='09. 枚举 (Enum)'/>
+        <page name='10. 结构体 (Struct)'/>
+        <page name='11. 类 (Class) 与对象'/>
+        <page name='12. 错误处理'/>
+        <page name='13. SwiftUI'/>
+        <page name='a. 结束'/>
+        <page name='b. 相关资源'/>
+    </pages>
+</playground>
